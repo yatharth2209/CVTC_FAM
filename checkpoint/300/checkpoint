@@ -1,0 +1,4 @@
+model_checkpoint_path: "cnn"
+all_model_checkpoint_paths: "../100/cnn"
+all_model_checkpoint_paths: "../200/cnn"
+all_model_checkpoint_paths: "cnn"
